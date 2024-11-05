@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+textract
+PyPDF2
+spacy
+python-dotenv
